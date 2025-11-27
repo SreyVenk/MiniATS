@@ -76,5 +76,6 @@ README.md
 
 ## Notes
 
+* Database contains tons of keywords commonly used for ATS systems.
 * To modify or expand the skill database, edit dbpop.py and run it again.
 * This project is intended for demonstration and portfolio use rather than production deployment.
