@@ -19,7 +19,7 @@ from src.scoring import (
     compute_overlap_sets,
 )
 
-st.set_page_config(page_title="Mini ATS", page_icon="📄", layout="wide")
+st.set_page_config(page_title="Mini ATS", page_icon="", layout="wide")
 
 CUSTOM_CSS = """
 <style>
@@ -113,7 +113,7 @@ def render_skill_chips(skills):
 
 
 def main():
-    st.markdown("### 📄 Mini ATS")
+    st.markdown("###  Mini ATS")
     st.markdown(
         "Quickly see how well your resume lines up with a specific job description."
     )
