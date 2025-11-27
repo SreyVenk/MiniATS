@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#6366f1"          # indigo accent
+backgroundColor = "#020617"       # near-black navy
+secondaryBackgroundColor = "#0f172a"
+textColor = "#e5e7eb"
+font = "sans serif"
